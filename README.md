@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about :  Software Engineering, Data Structures/Algorithms
 - 📫 How to reach me: rajatsingh2021asu@gmail.com, +1(480)-832-8314
 - 😄 Pronouns: RAJ
--->
