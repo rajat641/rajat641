@@ -1,9 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working as CS Grad Student at Arizona Student University, Tempe, AZ.  
-- 💬 Ask me about :  Software Engineering, Open Source Contribution.
+
+- 🔭 I’m a former CS Grad Student at Arizona Student University, Tempe, AZ.  
+- 💬 I love Software Engineering, Open Source Contribution and Competitve programming.
+- 💬 Always eager to learn and adapt to new technology!
 - 📫 How to reach me: singhrajat641@gmail.com, [LinkedIn](https://www.linkedin.com/in/rajat641)
 - 😄 Pronouns: RAJ
 
