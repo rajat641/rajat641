@@ -8,5 +8,5 @@
 - 📫 How to reach me: singhrajat641@gmail.com, [LinkedIn](https://www.linkedin.com/in/rajat641)
 - 😄 Pronouns: RAJ
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajat641)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajat641&show_icons=true&theme=radical)
 
